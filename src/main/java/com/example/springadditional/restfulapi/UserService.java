@@ -1,4 +1,4 @@
-package com.example.springadditional;
+package com.example.springadditional.restfulapi;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.example.springadditional;
+package com.example.springadditional.restfulapi;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

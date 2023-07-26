@@ -1,4 +1,4 @@
-package com.example.springadditional;
+package com.example.springadditional.restfulapi;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
